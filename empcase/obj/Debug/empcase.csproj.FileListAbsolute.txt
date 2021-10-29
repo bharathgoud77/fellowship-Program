@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\empcase\empcase\bin\Debug\empcase.exe.config
+C:\Users\ADMIN\source\repos\empcase\empcase\bin\Debug\empcase.exe
+C:\Users\ADMIN\source\repos\empcase\empcase\bin\Debug\empcase.pdb
+C:\Users\ADMIN\source\repos\empcase\empcase\obj\Debug\empcase.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\empcase\empcase\obj\Debug\empcase.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\empcase\empcase\obj\Debug\empcase.exe
+C:\Users\ADMIN\source\repos\empcase\empcase\obj\Debug\empcase.pdb

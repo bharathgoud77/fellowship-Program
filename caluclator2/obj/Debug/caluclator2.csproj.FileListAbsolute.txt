@@ -1,0 +1,2 @@
+C:\Users\ADMIN\source\repos\caluclator2\caluclator2\obj\Debug\caluclator2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\caluclator2\caluclator2\obj\Debug\caluclator2.csproj.CoreCompileInputs.cache
