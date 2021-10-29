@@ -5,3 +5,10 @@ C:\Users\ADMIN\source\repos\EmpWage\EmpWage\obj\Debug\EmpWage.csproj.AssemblyRef
 C:\Users\ADMIN\source\repos\EmpWage\EmpWage\obj\Debug\EmpWage.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\EmpWage\EmpWage\obj\Debug\EmpWage.exe
 C:\Users\ADMIN\source\repos\EmpWage\EmpWage\obj\Debug\EmpWage.pdb
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWage\bin\Debug\EmpWage.exe.config
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWage\bin\Debug\EmpWage.exe
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWage\bin\Debug\EmpWage.pdb
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWage\obj\Debug\EmpWage.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWage\obj\Debug\EmpWage.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWage\obj\Debug\EmpWage.exe
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWage\obj\Debug\EmpWage.pdb

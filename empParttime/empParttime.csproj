@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7FA94E2D-A60A-40F9-B3E3-8E93C6FB3EF4}</ProjectGuid>
+    <ProjectGuid>{B93D027B-97DB-4772-9B14-0D24CE2DCD59}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>employee_wage</RootNamespace>
-    <AssemblyName>employee wage</AssemblyName>
+    <RootNamespace>empParttime</RootNamespace>
+    <AssemblyName>empParttime</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
