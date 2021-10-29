@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 namespace Demo
 
 {
-    class Calulator
+    class Calculator
     {
         int totalValue;
-            public int isSum(int num1 , int num2)
+            public int isMul(int num1 , int num2)
         {
-            return totalValue = num1 + num2;
+            return totalValue = num1 * num2;
         }
 
     }

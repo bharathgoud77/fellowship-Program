@@ -10,8 +10,8 @@ namespace Demo
     {
         public static void Main(string[] args)
         {
-            Calulator objCalulator = new Calulator();
-            Console.WriteLine("total Values =" + objCalulator.isSum(30, 20));
+            Calculator objCalculator = new Calculator();
+            Console.WriteLine("total Values =" + objCalculator.isMul(30, 20));
             Console.ReadKey();
         }
     }
