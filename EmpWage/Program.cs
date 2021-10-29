@@ -16,7 +16,7 @@ namespace EmpWage
             int empHrs = 0;
             int empWage = 0;
             Random random = new Random();
-            int empCheck = random.Next(0, 3);
+            int empCheck = random.Next(0, 2);
             if (empCheck == Is_Full_Time)
             {
                 Console.WriteLine("Employee Is Present");
@@ -28,15 +28,9 @@ namespace EmpWage
             {
                 Console.WriteLine("Employee Is Absent");
                 empHrs = 0;
-                
-
-            }
-             if (empCheck == Is_On_Leave)
-            {
-                Console.WriteLine("Employee Is On Leave");
             }
             empWage = empHrs * Emp_Rate_Per_Hour;
-            Console.WriteLine("empWage"+ empWage);
+            Console.WriteLine("empWage ="+ empWage);
             Console.ReadLine();
 
         }
