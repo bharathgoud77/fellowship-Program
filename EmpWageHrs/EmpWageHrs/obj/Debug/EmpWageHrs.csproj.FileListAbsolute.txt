@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWageHrs\EmpWageHrs\bin\Debug\EmpWageHrs.exe.config
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWageHrs\EmpWageHrs\bin\Debug\EmpWageHrs.exe
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWageHrs\EmpWageHrs\bin\Debug\EmpWageHrs.pdb
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWageHrs\EmpWageHrs\obj\Debug\EmpWageHrs.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWageHrs\EmpWageHrs\obj\Debug\EmpWageHrs.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWageHrs\EmpWageHrs\obj\Debug\EmpWageHrs.exe
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpWageHrs\EmpWageHrs\obj\Debug\EmpWageHrs.pdb
