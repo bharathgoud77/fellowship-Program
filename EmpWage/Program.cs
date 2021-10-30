@@ -11,7 +11,7 @@ namespace EmpWage
         static void Main(string[] args)
         {
             int Is_Full_Time = 1;
-            int Is_On_Leave = 2;
+            
             int Emp_Rate_Per_Hour = 10;
             int empHrs = 0;
             int empWage = 0;

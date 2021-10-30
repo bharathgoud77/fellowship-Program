@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpMonthWage\EmpMonthWage\bin\Debug\EmpMonthWage.exe.config
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpMonthWage\EmpMonthWage\bin\Debug\EmpMonthWage.exe
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpMonthWage\EmpMonthWage\bin\Debug\EmpMonthWage.pdb
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpMonthWage\EmpMonthWage\obj\Debug\EmpMonthWage.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpMonthWage\EmpMonthWage\obj\Debug\EmpMonthWage.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpMonthWage\EmpMonthWage\obj\Debug\EmpMonthWage.exe
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\EmpMonthWage\EmpMonthWage\obj\Debug\EmpMonthWage.pdb
