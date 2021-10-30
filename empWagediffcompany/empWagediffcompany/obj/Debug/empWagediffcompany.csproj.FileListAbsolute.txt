@@ -1,0 +1,2 @@
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\empWagediffcompany\empWagediffcompany\obj\Debug\empWagediffcompany.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\empWagediffcompany\empWagediffcompany\obj\Debug\empWagediffcompany.csproj.CoreCompileInputs.cache

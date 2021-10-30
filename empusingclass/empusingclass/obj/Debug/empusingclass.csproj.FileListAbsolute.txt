@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\empusingclass\empusingclass\bin\Debug\empusingclass.exe.config
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\empusingclass\empusingclass\bin\Debug\empusingclass.exe
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\empusingclass\empusingclass\bin\Debug\empusingclass.pdb
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\empusingclass\empusingclass\obj\Debug\empusingclass.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\empusingclass\empusingclass\obj\Debug\empusingclass.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\empusingclass\empusingclass\obj\Debug\empusingclass.exe
+C:\Users\ADMIN\source\repos\fellowship program\fellowship-Program\empusingclass\empusingclass\obj\Debug\empusingclass.pdb
